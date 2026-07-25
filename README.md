@@ -18,3 +18,7 @@ RedRedRed is a wild, experimental project featuring custom dimensions, biomes, a
 * **License**: This project is licensed under the MIT License.
 * **Credit**: If you modify or build upon this source, please make sure to credit me! (**alisteveman12**)
 * **Bug Reports**: Found a bug? (We know there are a few!) Feel free to open an issue or leave a comment on the project page.
+
+
+BUT: There is an issue.
+One random day in **THIS month** *(I do not know when)*, the RedRedRed workspace got corrupted while porting it from Minecraft "1.21.8" to Minecraft "26.1.2". It may take a while to restore the mod, so **PLEASE**. Wait.
