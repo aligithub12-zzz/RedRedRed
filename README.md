@@ -20,6 +20,6 @@ RedRedRed is a wild, experimental project featuring custom dimensions, biomes, a
 * **Bug Reports**: Found a bug? (We know there are a few!) Feel free to open an issue or leave a comment on the project page.
 
 
-## Fatal issue
+## Fatal issue **(NOW FIXED)**
 Sadly, there is an issue.
-One random day in **THIS month** *(I do not know when)*, the RedRedRed workspace got corrupted while porting it from Minecraft "1.21.8" to Minecraft "26.1.2". It may take a while to restore the mod, so **PLEASE**. Wait.
+One random day in **THIS month** *(I do not know when)*, the RedRedRed workspace got corrupted while porting it from Minecraft "1.21.8" to Minecraft "26.1.2". It may take a while to restore the mod, so **PLEASE**. Wait. Update 1: It's been fixed!!!!!!!!!
