@@ -3,7 +3,7 @@
 The official source code for the Minecraft Java mod: **RedRedRed**.
 
 ## About the Project
-RedRedRed is a wild, experimental project featuring custom dimensions, biomes, and unique mechanics. Currently, the mod is transitioning from the INDEV stage into the **ALPHA** stage (v1.1.0a).
+RedRedRed is a wild, experimental project featuring custom dimensions, biomes, and unique mechanics, and so much more. 
 
 ## Features
 * **Dimensions & Biomes**: Explore the Bimes Dimension, the Flowrdi Dimension, the CryingNether, and the Maxdim.
@@ -11,7 +11,7 @@ RedRedRed is a wild, experimental project featuring custom dimensions, biomes, a
 * **Mechanics**: Custom gamerules like `InstantDeath` to keep your survival runs interesting!
 
 ## Development Status
-* **Version**: Moving toward v1.1.x (ALPHA). Current Version: 1.0.x INDEV
+* **Current Client Version**: Minecraft 1.21.8, NF (NeoForge)
 * **Stability**: This is an experimental project! Bugs are expected, especially when dealing with custom dimensions like the CryingNether. 
 
 ## Contribution & Credits
